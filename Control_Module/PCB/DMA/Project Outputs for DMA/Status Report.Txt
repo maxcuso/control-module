@@ -1,0 +1,25 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Variant [[No Variations]] of Project [DMA.PrjPcb]
+   Generated File[DMA_Copper_Signal_Top.gbr]
+   Generated File[DMA_Copper_Signal_1.gbr]
+   Generated File[DMA_Copper_Signal_2.gbr]
+   Generated File[DMA_Copper_Signal_Bot.gbr]
+   Generated File[DMA_Legend_Top.gbr]
+   Generated File[DMA_Legend_Bot.gbr]
+   Generated File[DMA_Soldermask_Top.gbr]
+   Generated File[DMA_Soldermask_Bot.gbr]
+   Generated File[DMA_Paste_Top.gbr]
+   Generated File[DMA_Paste_Bot.gbr]
+   Generated File[DMA_Profile.gbr]
+   Generated File[DMA_NPTH_Drill.gbr]
+   Generated File[DMA_PTH_Drill.gbr]
+   Generated File[DMA_Plated_Drill_1_2.gbr]
+   Generated File[DMA.EXTREP]
+   Generated File[DMA.REP]
+
+
+Files Generated   : 16
+Documents Printed : 0
+
+Finished Output Generation At 11:07:52 AM On 1/22/2026

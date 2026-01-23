@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=J5 Old Footprint=B2B-XH-A New Footprint=JST_S2B-XH-A(LF)(SN)
+Change Component Footprint: Designator=J3 Old Footprint=B4B-XH-A New Footprint=JST_S4B-XH-A(LF)(SN)
+Change Component Footprint: Designator=J4 Old Footprint=B4B-XH-A New Footprint=JST_S4B-XH-A(LF)(SN)
+Added Member To Class: ClassName=DMA Member=Component J? CONSMA003.062-L-G

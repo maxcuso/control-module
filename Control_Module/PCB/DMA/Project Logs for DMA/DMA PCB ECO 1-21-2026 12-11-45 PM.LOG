@@ -1,0 +1,41 @@
+Change Component Designator: OldDesignator= NewDesignator=J1
+Change Component Designator: OldDesignator= NewDesignator=J2
+Change Component Designator: OldDesignator=?1 NewDesignator=2
+Change Component Designator: OldDesignator=?2 NewDesignator=1
+Change Component Designator: OldDesignator=?3 NewDesignator=4
+Change Component Designator: OldDesignator=?4 NewDesignator=3
+Change Component Designator: OldDesignator=ANT1 NewDesignator=ANT3
+Change Component Designator: OldDesignator=ANT2 NewDesignator=ANT4
+Change Component Designator: OldDesignator=ANT3 NewDesignator=ANT5
+Change Component Designator: OldDesignator=ANT4 NewDesignator=ANT6
+Change Component Designator: OldDesignator=ANT5 NewDesignator=ANT7
+Change Component Designator: OldDesignator=ANT6 NewDesignator=ANT8
+Change Component Designator: OldDesignator=ANT7 NewDesignator=ANT1
+Change Component Designator: OldDesignator=ANT8 NewDesignator=ANT2
+Change Component Designator: OldDesignator=C1 NewDesignator=C3
+Change Component Designator: OldDesignator=C3 NewDesignator=C1
+Change Component Designator: OldDesignator=J1 NewDesignator=J4
+Change Component Designator: OldDesignator=J2 NewDesignator=J3
+Change Component Designator: OldDesignator=J3 NewDesignator=J5
+Change Component Designator: OldDesignator=U1 NewDesignator=U2
+Change Component Designator: OldDesignator=U2 NewDesignator=U1
+Change Component Designator: OldDesignator=VD1 NewDesignator=VD8
+Change Component Designator: OldDesignator=VD2 NewDesignator=VD7
+Change Component Designator: OldDesignator=VD3 NewDesignator=VD6
+Change Component Designator: OldDesignator=VD4 NewDesignator=VD5
+Change Component Designator: OldDesignator=VD5 NewDesignator=VD4
+Change Component Designator: OldDesignator=VD6 NewDesignator=VD3
+Change Component Designator: OldDesignator=VD7 NewDesignator=VD2
+Change Component Designator: OldDesignator=VD8 NewDesignator=VD1
+Added Member To Class: ClassName=DMA Member=Component 1 SMTSO_STAND_M3
+Added Member To Class: ClassName=DMA Member=Component 3 SMTSO_STAND_M3
+Added Member To Class: ClassName=DMA Member=Component 4 SMTSO_STAND_M3
+Added Member To Class: ClassName=DMA Member=Component ANT7 CELC
+Added Member To Class: ClassName=DMA Member=Component ANT8 CELC
+Added Member To Class: ClassName=DMA Member=Component C3 0.1uF
+Added Member To Class: ClassName=DMA Member=Component J4 HX2.54-4P
+Added Member To Class: ClassName=DMA Member=Component U2 GTL2003PW,118
+Added Member To Class: ClassName=DMA Member=Component VD5 LED
+Added Member To Class: ClassName=DMA Member=Component VD6 LED
+Added Member To Class: ClassName=DMA Member=Component VD7 LED
+Added Member To Class: ClassName=DMA Member=Component VD8 LED
