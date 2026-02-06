@@ -1,0 +1,35 @@
+Added Component: Designator=D1(SOD123_MD_DIOM2615X12N)
+Added Component: Designator=VD1(LEDSC125X200X90-2N)
+Add component (AddParameter): Name = "CompCode"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "LED_3MM_DIP_BLUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "PART_1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "LED_3mm_DIP_Blue"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "LED_1204_R/A"; VariantName = "[No Variations]"
+Added Component: Designator=VD2(LED_APT2012MGC)
+Add component (AddParameter): Name = "CompCode"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "LED_3MM_DIP_BLUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "PART_1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "LED_3mm_DIP_Blue"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "LED_1204_R/A"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin D1-1
+Add Pin To Net: Unknown Pin: Pin D1-2
+Add Pin To Net: Unknown Pin: Pin U2-34
+Add Pin To Net: Unknown Pin: Pin U2-35
+Add Pin To Net: Unknown Pin: Pin U2-36
+Add Pin To Net: Unknown Pin: Pin U2-37
+Add Pin To Net: Unknown Pin: Pin U2-39
+Add Pin To Net: Unknown Pin: Pin U2-42
+Add Pin To Net: Unknown Pin: Pin U2-44
+Add Pin To Net: Unknown Pin: Pin U2-47
+Add Pin To Net: Unknown Pin: Pin U2-48
+Add Pin To Net: Unknown Pin: Pin VD1-1
+Add Pin To Net: Unknown Pin: Pin VD1-2
+Add Pin To Net: Unknown Pin: Pin VD2-1
+Add Pin To Net: Unknown Pin: Pin VD2-2
+Add Class Member: Failed to add class member : Component D1 SD103AW
+Added Member To Class: ClassName=main Member=Component VD1 LED
+Added Member To Class: ClassName=main Member=Component VD2 LED

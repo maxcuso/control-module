@@ -1,0 +1,308 @@
+Added Component: Designator=C?(0805_MD_CAPC2012X05N)
+Add component (AddParameter): Name = "CompCode"; Value = "6294"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found C0805
+Add Component: Footprint Not Found C0805
+Added Component: Designator=C?(0805_MD_CAPC2012X05N)
+Add component (AddParameter): Name = "CompCode"; Value = "6294"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found C0805
+Added Component: Designator=C?(0805_MD_CAPC2012X05N)
+Add component (AddParameter): Name = "CompCode"; Value = ""; VariantName = "[No Variations]"
+Add Component: Footprint Not Found C0805
+Add Component: Footprint Not Found C0805
+Added Component: Designator=C?(0805_MD_CAPC2012X05N)
+Add component (AddParameter): Name = "CompCode"; Value = "6294"; VariantName = "[No Variations]"
+Added Component: Designator=C?(6.3x5.4_HD_CAPAE7266X54L)
+Add component (AddParameter): Name = "CompCode"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C?(0805_MD_CAPC2012X05N)
+Add component (AddParameter): Name = "CompCode"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C?(6.3x5.4_HD_CAPAE7266X54L)
+Add component (AddParameter): Name = "CompCode"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C?(6.3x5.4_HD_CAPAE7266X54L)
+Add component (AddParameter): Name = "CompCode"; Value = ""; VariantName = "[No Variations]"
+Add Component: Footprint Not Found C0805
+Added Component: Designator=C?(6.3x5.4_HD_CAPAE7266X54L)
+Add component (AddParameter): Name = "CompCode"; Value = ""; VariantName = "[No Variations]"
+Add Component: Footprint Not Found C0805
+Added Component: Designator=C?(0805_MD_CAPC2012X05N)
+Add component (AddParameter): Name = "CompCode"; Value = ""; VariantName = "[No Variations]"
+Add Component: Footprint Not Found C0805
+Added Component: Designator=C?(0805_MD_CAPC2012X05N)
+Add component (AddParameter): Name = "CompCode"; Value = "1353"; VariantName = "[No Variations]"
+Added Component: Designator=C?(0805_MD_CAPC2012X05N)
+Add component (AddParameter): Name = "CompCode"; Value = "6294"; VariantName = "[No Variations]"
+Added Component: Designator=C?(0805_MD_CAPC2012X05N)
+Add component (AddParameter): Name = "CompCode"; Value = "1353"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found C0805
+Added Component: Designator=D?(SOD123_MD_DIOM2615X12N)
+Added Component: Designator=J?(J011D21BNL)
+Add component (AddParameter): Name = "CompCode"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J?(JST_S4B-XH-A(LF)(SN))
+Add component (AddParameter): Name = "CompCode"; Value = "1615"; VariantName = "[No Variations]"
+Added Component: Designator=J?(SWITCHCRAFT_RAPC712BKZ)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/RAPC712BKZ/Conxall%252FSwitchcraft/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Switchcraft Conxall"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RAPC712BKZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search?q=RAPC712BKZ&ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/RAPC712BKZ/Conxall%252FSwitchcraft/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J?(JST_S4B-XH-A(LF)(SN))
+Add component (AddParameter): Name = "CompCode"; Value = "1615"; VariantName = "[No Variations]"
+Added Component: Designator=J?(PLS-1-3)
+Add component (AddParameter): Name = "CompCode"; Value = "2145"; VariantName = "[No Variations]"
+Added Component: Designator=J?(JST_S2B-XH-A(LF)(SN))
+Add component (AddParameter): Name = "CompCode"; Value = "395"; VariantName = "[No Variations]"
+Added Component: Designator=J?(SWD-4)
+Add component (AddParameter): Name = "CompCode"; Value = "6025"; VariantName = "[No Variations]"
+Added Component: Designator=L?(0603_LD_RESC1608X06M)
+Add component (AddParameter): Name = "CompCode"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=L?(LQH32P_MD_INDP3225X17N)
+Add component (AddParameter): Name = "CompCode"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(0805_MD_RESC2012X06N)
+Add component (AddParameter): Name = "CompCode"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(0805_MD_RESC2012X06N)
+Add component (AddParameter): Name = "CompCode"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(0805_MD_RESC2012X06N)
+Add component (AddParameter): Name = "CompCode"; Value = "652"; VariantName = "[No Variations]"
+Added Component: Designator=R?(0805_MD_RESC2012X06N)
+Add component (AddParameter): Name = "CompCode"; Value = "652"; VariantName = "[No Variations]"
+Added Component: Designator=R?(0805_MD_RESC2012X06N)
+Add component (AddParameter): Name = "CompCode"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(0805_MD_RESC2012X06N)
+Add component (AddParameter): Name = "CompCode"; Value = ""; VariantName = "[No Variations]"
+Add Component: Footprint Not Found R0805
+Added Component: Designator=R?(0805_MD_RESC2012X06N)
+Add component (AddParameter): Name = "CompCode"; Value = "652"; VariantName = "[No Variations]"
+Added Component: Designator=R?(0805_MD_RESC2012X06N)
+Add component (AddParameter): Name = "CompCode"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(0805_MD_RESC2012X06N)
+Add component (AddParameter): Name = "CompCode"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(0805_MD_RESC2012X06N)
+Add component (AddParameter): Name = "CompCode"; Value = "652"; VariantName = "[No Variations]"
+Added Component: Designator=R?(0805_MD_RESC2012X06N)
+Add component (AddParameter): Name = "CompCode"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(0805_MD_RESC2012X06N)
+Add component (AddParameter): Name = "CompCode"; Value = "1100"; VariantName = "[No Variations]"
+Added Component: Designator=R?(0805_MD_RESC2012X06N)
+Add component (AddParameter): Name = "CompCode"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(0805_MD_RESC2012X06N)
+Add component (AddParameter): Name = "CompCode"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(0805_MD_RESC2012X06N)
+Add component (AddParameter): Name = "CompCode"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(0805_MD_RESC2012X06N)
+Add component (AddParameter): Name = "CompCode"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(0805_MD_RESC2012X06N)
+Add component (AddParameter): Name = "CompCode"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=SW?(LL3301)
+Add component (AddParameter): Name = "CompCode"; Value = "4234"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "SOFT_BUTTON_SMD_6X6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "PART_1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "Buttons"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Soft_smd_6x6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "SOFT_BUTTON_SMD_6X6"; VariantName = "[No Variations]"
+Added Component: Designator=U?(SOP65P780X200-28N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/ENC28J60/SS/Microchip/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ENC28J60/SS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SSOP-28 Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ENC28J60/SS/Microchip/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Component: Footprint Not Found LQFP48_7x7
+Added Component: Designator=U?(SOT23_6_MD_SOT95P280X125-6N)
+Add component (AddParameter): Name = "CompCode"; Value = "6619"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DATASHEET"; Value = "Q:\Software\Altium\Datasheets\AOZ1282CI.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "AOZ1282CI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "PART_1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "DC-DC IC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUFACTURER"; Value = "Alpha & Omega"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT23-6P95_270X145L35X35L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "AOZ1280CI"; VariantName = "[No Variations]"
+Added Component: Designator=VD?(D0805)
+Added Component: Designator=VD?(D0805)
+Added Component: Designator=Y?(YANGXING_SMD_3225_4L)
+Add component (AddParameter): Name = "CompCode"; Value = "7637"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "AV08000301"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "PART_1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "Crystal Oscillator"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "YANGXING_SMD_3225_4L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "AV08000301"; VariantName = "[No Variations]"
+Added Component: Designator=Y?(YANGXING_SMD_3225_4L)
+Add component (AddParameter): Name = "CompCode"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "AV08000301"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "PART_1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "Crystal Oscillator"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "YANGXING_SMD_3225_4L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "AV08000301"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+12V Pin=C?-1
+Added Pin To Net: NetName=+12V Pin=J?-PIN
+Added Pin To Net: NetName=+12V Pin=R?-2
+Added Pin To Net: NetName=+12V Pin=U?-5
+Added Net: Name=+12V
+Added Pin To Net: NetName=3V3 Pin=C?-1
+Added Pin To Net: NetName=3V3 Pin=C?-1
+Added Pin To Net: NetName=3V3 Pin=C?-1
+Added Pin To Net: NetName=3V3 Pin=C?-1
+Added Pin To Net: NetName=3V3 Pin=C?-1
+Added Pin To Net: NetName=3V3 Pin=C?-1
+Added Pin To Net: NetName=3V3 Pin=C?-1
+Added Pin To Net: NetName=3V3 Pin=C?-1
+Added Pin To Net: NetName=3V3 Pin=C?-1
+Added Pin To Net: NetName=3V3 Pin=C?-1
+Added Pin To Net: NetName=3V3 Pin=C?-2
+Added Pin To Net: NetName=3V3 Pin=C?-2
+Added Pin To Net: NetName=3V3 Pin=C?-2
+Added Pin To Net: NetName=3V3 Pin=C?-2
+Added Pin To Net: NetName=3V3 Pin=C?-2
+Added Pin To Net: NetName=3V3 Pin=C?-2
+Added Pin To Net: NetName=3V3 Pin=C?-2
+Added Pin To Net: NetName=3V3 Pin=C?-2
+Added Pin To Net: NetName=3V3 Pin=C?-2
+Added Pin To Net: NetName=3V3 Pin=C?-2
+Added Pin To Net: NetName=3V3 Pin=C?-2
+Added Pin To Net: NetName=3V3 Pin=J?-1
+Added Pin To Net: NetName=3V3 Pin=J?-1
+Added Pin To Net: NetName=3V3 Pin=J?-2
+Added Pin To Net: NetName=3V3 Pin=J?-3
+Added Pin To Net: NetName=3V3 Pin=J?-4
+Added Pin To Net: NetName=3V3 Pin=J?-8
+Added Pin To Net: NetName=3V3 Pin=J?-10
+Added Pin To Net: NetName=3V3 Pin=J?-11
+Added Pin To Net: NetName=3V3 Pin=J?-13
+Added Pin To Net: NetName=3V3 Pin=J?-14
+Added Pin To Net: NetName=3V3 Pin=J?-SHUNT
+Added Pin To Net: NetName=3V3 Pin=J?-SLEEVE
+Added Pin To Net: NetName=3V3 Pin=L?-1
+Added Pin To Net: NetName=3V3 Pin=L?-2
+Added Pin To Net: NetName=3V3 Pin=R?-1
+Added Pin To Net: NetName=3V3 Pin=R?-1
+Added Pin To Net: NetName=3V3 Pin=R?-1
+Added Pin To Net: NetName=3V3 Pin=R?-2
+Added Pin To Net: NetName=3V3 Pin=R?-2
+Added Pin To Net: NetName=3V3 Pin=R?-2
+Added Pin To Net: NetName=3V3 Pin=R?-2
+Added Pin To Net: NetName=3V3 Pin=R?-2
+Added Pin To Net: NetName=3V3 Pin=SW?-1
+Added Pin To Net: NetName=3V3 Pin=SW?-1
+Added Pin To Net: NetName=3V3 Pin=U?-2
+Added Pin To Net: NetName=3V3 Pin=U?-2
+Added Pin To Net: NetName=3V3 Pin=U?-11
+Added Pin To Net: NetName=3V3 Pin=U?-15
+Added Pin To Net: NetName=3V3 Pin=U?-18
+Added Pin To Net: NetName=3V3 Pin=U?-19
+Added Pin To Net: NetName=3V3 Pin=U?-20
+Added Pin To Net: NetName=3V3 Pin=U?-21
+Added Pin To Net: NetName=3V3 Pin=U?-22
+Added Pin To Net: NetName=3V3 Pin=U?-25
+Added Pin To Net: NetName=3V3 Pin=U?-28
+Added Pin To Net: NetName=3V3 Pin=Y?-2
+Added Pin To Net: NetName=3V3 Pin=Y?-2
+Added Pin To Net: NetName=3V3 Pin=Y?-2
+Added Pin To Net: NetName=3V3 Pin=Y?-2
+Added Net: Name=3V3
+Added Pin To Net: NetName=12V_BST Pin=C?-1
+Added Pin To Net: NetName=12V_BST Pin=U?-1
+Added Net: Name=12V_BST
+Added Pin To Net: NetName=12V_EN Pin=R?-1
+Added Pin To Net: NetName=12V_EN Pin=U?-4
+Added Net: Name=12V_EN
+Added Pin To Net: NetName=12V_FB Pin=R?-1
+Added Pin To Net: NetName=12V_FB Pin=R?-2
+Added Pin To Net: NetName=12V_FB Pin=U?-3
+Added Net: Name=12V_FB
+Added Pin To Net: NetName=12V_LX Pin=C?-2
+Added Pin To Net: NetName=12V_LX Pin=L?-1
+Added Pin To Net: NetName=12V_LX Pin=U?-6
+Added Net: Name=12V_LX
+Added Pin To Net: NetName=CH1 Pin=J?-1
+Added Net: Name=CH1
+Added Pin To Net: NetName=CH2 Pin=J?-2
+Added Net: Name=CH2
+Added Pin To Net: NetName=CH3 Pin=J?-3
+Added Net: Name=CH3
+Added Pin To Net: NetName=CH4 Pin=J?-4
+Added Net: Name=CH4
+Added Pin To Net: NetName=CH5 Pin=J?-1
+Added Net: Name=CH5
+Added Pin To Net: NetName=CH6 Pin=J?-2
+Added Net: Name=CH6
+Added Pin To Net: NetName=CH7 Pin=J?-3
+Added Net: Name=CH7
+Added Pin To Net: NetName=CH8 Pin=J?-4
+Added Net: Name=CH8
+Added Pin To Net: NetName=CS Pin=R?-1
+Added Pin To Net: NetName=CS Pin=U?-9
+Added Net: Name=CS
+Added Pin To Net: NetName=LED_G Pin=J?-9
+Added Pin To Net: NetName=LED_G Pin=R?-1
+Added Net: Name=LED_G
+Added Pin To Net: NetName=LED_Y Pin=J?-12
+Added Pin To Net: NetName=LED_Y Pin=R?-1
+Added Net: Name=LED_Y
+Added Pin To Net: NetName=LED Pin=R?-2
+Added Pin To Net: NetName=LED Pin=U?-2
+Added Net: Name=LED
+Added Pin To Net: NetName=MISO Pin=U?-6
+Added Net: Name=MISO
+Added Pin To Net: NetName=MOSI Pin=U?-7
+Added Net: Name=MOSI
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=R?-1
+Added Pin To Net: NetName=NetC?_1 Pin=SW?-2
+Added Pin To Net: NetName=NetC?_1 Pin=SW?-2
+Added Net: Name=NetC?_1
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=R?-2
+Added Pin To Net: NetName=NetC?_2 Pin=U?-23
+Added Pin To Net: NetName=NetC?_2 Pin=Y?-1
+Added Net: Name=NetC?_2
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Net: Name=NetR?_1
+Add Net: Net with name "NetR?_1" already exists
+Added Pin To Net: NetName=NetR?_2 Pin=R?-2
+Added Pin To Net: NetName=NetR?_2 Pin=U?-27
+Added Net: Name=NetR?_2
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Added Pin To Net: NetName=RESET Pin=R?-1
+Added Pin To Net: NetName=RESET Pin=U?-10
+Added Net: Name=RESET
+Added Pin To Net: NetName=SCK Pin=U?-8
+Added Net: Name=SCK
+Added Pin To Net: NetName=SWCLK Pin=J?-3
+Added Net: Name=SWCLK
+Added Pin To Net: NetName=SWDIO Pin=J?-2
+Added Net: Name=SWDIO
+Added Pin To Net: NetName=TPIN+ Pin=J?-3
+Added Pin To Net: NetName=TPIN+ Pin=R?-1
+Added Pin To Net: NetName=TPIN+ Pin=U?-13
+Added Net: Name=TPIN+
+Added Pin To Net: NetName=TPIN- Pin=J?-6
+Added Pin To Net: NetName=TPIN- Pin=R?-1
+Added Pin To Net: NetName=TPIN- Pin=U?-12
+Added Net: Name=TPIN-
+Added Pin To Net: NetName=TPOUT+ Pin=J?-1
+Added Pin To Net: NetName=TPOUT+ Pin=R?-1
+Added Pin To Net: NetName=TPOUT+ Pin=U?-17
+Added Net: Name=TPOUT+
+Added Pin To Net: NetName=TPOUT- Pin=J?-2
+Added Pin To Net: NetName=TPOUT- Pin=R?-1
+Added Pin To Net: NetName=TPOUT- Pin=U?-16
+Added Net: Name=TPOUT-
+Added Pin To Net: NetName=UART_RX Pin=J?-1
+Added Net: Name=UART_RX
+Added Pin To Net: NetName=UART_TX Pin=J?-2
+Added Net: Name=UART_TX
+Added Class: Name=main

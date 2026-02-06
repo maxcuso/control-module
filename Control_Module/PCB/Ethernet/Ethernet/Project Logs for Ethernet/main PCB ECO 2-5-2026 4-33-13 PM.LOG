@@ -1,0 +1,56 @@
+Added Component: Designator=D1(SOD123_MD_DIOM2615X12N)
+Added Component: Designator=U2(QFP32_MD_TQFP80P900X900X120-32N)
+Add component (AddParameter): Name = "CompCode"; Value = "2993"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "Q:/Software/Altium/Datasheets/STM32F103C8T6.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "STM32F103C8T6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "PART_1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "MCU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "LQFP48_7x7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "GD32F103C8T6"; VariantName = "[No Variations]"
+Added Component: Designator=VD1(D0805)
+Added Component: Designator=VD2(D0805)
+Add Pin To Net: Unknown Pin: Pin D1-1
+Add Pin To Net: Unknown Pin: Pin D1-2
+Added Pin To Net: NetName=LED Pin=U2-2
+Added Pin To Net: NetName=NetC5_2 Pin=U2-5
+Added Pin To Net: NetName=NetC6_2 Pin=U2-6
+Added Pin To Net: NetName=NetC3_1 Pin=U2-7
+Added Pin To Net: NetName=3V3 Pin=U2-8
+Added Pin To Net: NetName=3V3 Pin=U2-9
+Added Pin To Net: NetName=CH1 Pin=U2-11
+Added Pin To Net: NetName=CH2 Pin=U2-12
+Added Pin To Net: NetName=CH3 Pin=U2-13
+Added Pin To Net: NetName=CH4 Pin=U2-14
+Added Pin To Net: NetName=SCK Pin=U2-15
+Added Pin To Net: NetName=MISO Pin=U2-16
+Added Pin To Net: NetName=MOSI Pin=U2-17
+Added Pin To Net: NetName=3V3 Pin=U2-23
+Added Pin To Net: NetName=3V3 Pin=U2-24
+Added Pin To Net: NetName=CH5 Pin=U2-25
+Added Pin To Net: NetName=CH6 Pin=U2-26
+Added Pin To Net: NetName=CH7 Pin=U2-27
+Added Pin To Net: NetName=CH8 Pin=U2-28
+Added Pin To Net: NetName=UART_TX Pin=U2-30
+Added Pin To Net: NetName=UART_RX Pin=U2-31
+Add Pin To Net: Unknown Pin: Pin U2-34
+Add Pin To Net: Unknown Pin: Pin U2-35
+Add Pin To Net: Unknown Pin: Pin U2-36
+Add Pin To Net: Unknown Pin: Pin U2-37
+Add Pin To Net: Unknown Pin: Pin U2-39
+Add Pin To Net: Unknown Pin: Pin U2-42
+Add Pin To Net: Unknown Pin: Pin U2-44
+Add Pin To Net: Unknown Pin: Pin U2-47
+Add Pin To Net: Unknown Pin: Pin U2-48
+Add Pin To Net: Unknown Pin: Pin VD1-1
+Add Pin To Net: Unknown Pin: Pin VD1-2
+Add Pin To Net: Unknown Pin: Pin VD2-1
+Add Pin To Net: Unknown Pin: Pin VD2-2
+Added Member To Class: ClassName=main Member=Component C8 100nF
+Add Class Member: Failed to add class member : Component D1 SD103AW
+Added Member To Class: ClassName=main Member=Component J3 PLS-3
+Added Member To Class: ClassName=main Member=Component R11 510
+Added Member To Class: ClassName=main Member=Component U2 GD32F103C8T6
+Add Class Member: Failed to add class member : Component VD1 LED
+Add Class Member: Failed to add class member : Component VD2 LED
+Added Member To Class: ClassName=main Member=Component Y2 X32258MOB4SI

@@ -1,0 +1,214 @@
+Removed Pin From Net: NetName=LED Pin=U?-2
+Change Component Designator: OldDesignator=C? NewDesignator=C4
+Change Component Designator: OldDesignator=C? NewDesignator=C5
+Change Component Designator: OldDesignator=C? NewDesignator=C6
+Change Component Designator: OldDesignator=C? NewDesignator=C7
+Change Component Designator: OldDesignator=C? NewDesignator=C8
+Change Component Designator: OldDesignator=C? NewDesignator=C9
+Change Component Designator: OldDesignator=C? NewDesignator=C10
+Change Component Designator: OldDesignator=C? NewDesignator=C11
+Change Component Designator: OldDesignator=C? NewDesignator=C14
+Change Component Designator: OldDesignator=C? NewDesignator=C15
+Change Component Designator: OldDesignator=C? NewDesignator=C18
+Change Component Designator: OldDesignator=C? NewDesignator=C19
+Change Component Designator: OldDesignator=C? NewDesignator=C21
+Change Component Designator: OldDesignator=J? NewDesignator=J1
+Change Component Designator: OldDesignator=J? NewDesignator=J2
+Change Component Designator: OldDesignator=J? NewDesignator=J3
+Change Component Designator: OldDesignator=J? NewDesignator=J4
+Change Component Designator: OldDesignator=J? NewDesignator=J5
+Change Component Designator: OldDesignator=J? NewDesignator=J6
+Change Component Designator: OldDesignator=J? NewDesignator=J7
+Change Component Designator: OldDesignator=L? NewDesignator=L1
+Change Component Designator: OldDesignator=L? NewDesignator=L2
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change Component Designator: OldDesignator=R? NewDesignator=R3
+Change Component Designator: OldDesignator=R? NewDesignator=R4
+Change Component Designator: OldDesignator=R? NewDesignator=R5
+Change Component Designator: OldDesignator=R? NewDesignator=R6
+Change Component Designator: OldDesignator=R? NewDesignator=R7
+Change Component Designator: OldDesignator=R? NewDesignator=R8
+Change Component Designator: OldDesignator=R? NewDesignator=R9
+Change Component Designator: OldDesignator=R? NewDesignator=R10
+Change Component Designator: OldDesignator=R? NewDesignator=R11
+Change Component Designator: OldDesignator=R? NewDesignator=R12
+Change Component Designator: OldDesignator=R? NewDesignator=R13
+Change Component Designator: OldDesignator=R? NewDesignator=R14
+Change Component Designator: OldDesignator=R? NewDesignator=R15
+Change Component Designator: OldDesignator=R? NewDesignator=R16
+Change Component Designator: OldDesignator=R? NewDesignator=R17
+Change Component Designator: OldDesignator=R? NewDesignator=R18
+Change Component Designator: OldDesignator=SW? NewDesignator=SW1
+Change Component Designator: OldDesignator=U? NewDesignator=U1
+Change Component Designator: OldDesignator=U? NewDesignator=U3
+Change Component Designator: OldDesignator=Y? NewDesignator=Y1
+Change Component Designator: OldDesignator=Y? NewDesignator=Y2
+Added Component: Designator=C1(0805_MD_CAPC2012X05N)
+Add component (AddParameter): Name = "CompCode"; Value = "1353"; VariantName = "[No Variations]"
+Added Component: Designator=C2(0805_MD_CAPC2012X05N)
+Add component (AddParameter): Name = "CompCode"; Value = "1353"; VariantName = "[No Variations]"
+Added Component: Designator=C3(0805_MD_CAPC2012X05N)
+Add component (AddParameter): Name = "CompCode"; Value = "909"; VariantName = "[No Variations]"
+Added Component: Designator=C12(0805_MD_CAPC2012X05N)
+Add component (AddParameter): Name = "CompCode"; Value = "6294"; VariantName = "[No Variations]"
+Added Component: Designator=C13(0805_MD_CAPC2012X05N)
+Add component (AddParameter): Name = "CompCode"; Value = "6294"; VariantName = "[No Variations]"
+Added Component: Designator=C16(0805_MD_CAPC2012X05N)
+Add component (AddParameter): Name = "CompCode"; Value = "6294"; VariantName = "[No Variations]"
+Added Component: Designator=C17(0805_MD_CAPC2012X05N)
+Add component (AddParameter): Name = "CompCode"; Value = "6294"; VariantName = "[No Variations]"
+Added Component: Designator=C20(0805_MD_CAPC2012X05N)
+Add component (AddParameter): Name = "CompCode"; Value = "6294"; VariantName = "[No Variations]"
+Added Component: Designator=C22(0805_MD_CAPC2012X05N)
+Add component (AddParameter): Name = "CompCode"; Value = "6294"; VariantName = "[No Variations]"
+Added Component: Designator=D1(SOD123_MD_DIOM2615X12N)
+Added Component: Designator=R2(0805_MD_RESC2012X06N)
+Add component (AddParameter): Name = "CompCode"; Value = "1100"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found LQFP48_7x7
+Added Component: Designator=VD1(D0805)
+Added Component: Designator=VD2(D0805)
+Added Pin To Net: NetName=3V3 Pin=C1-1
+Added Pin To Net: NetName=3V3 Pin=C2-1
+Added Pin To Net: NetName=3V3 Pin=C3-2
+Added Pin To Net: NetName=3V3 Pin=C5-1
+Added Pin To Net: NetName=3V3 Pin=C12-1
+Added Pin To Net: NetName=3V3 Pin=C12-2
+Added Pin To Net: NetName=3V3 Pin=C13-1
+Added Pin To Net: NetName=3V3 Pin=C13-2
+Added Pin To Net: NetName=3V3 Pin=C16-1
+Added Pin To Net: NetName=3V3 Pin=C16-2
+Added Pin To Net: NetName=3V3 Pin=C17-1
+Added Pin To Net: NetName=3V3 Pin=C17-2
+Added Pin To Net: NetName=3V3 Pin=C20-2
+Added Pin To Net: NetName=3V3 Pin=C22-2
+Add Pin To Net: Unknown Pin: Pin D1-1
+Add Pin To Net: Unknown Pin: Pin D1-2
+Add Pin To Net: Unknown Pin: Pin U2-2
+Add Pin To Net: Unknown Pin: Pin U2-8
+Add Pin To Net: Unknown Pin: Pin U2-9
+Add Pin To Net: Unknown Pin: Pin U2-11
+Add Pin To Net: Unknown Pin: Pin U2-12
+Add Pin To Net: Unknown Pin: Pin U2-13
+Add Pin To Net: Unknown Pin: Pin U2-14
+Add Pin To Net: Unknown Pin: Pin U2-15
+Add Pin To Net: Unknown Pin: Pin U2-16
+Add Pin To Net: Unknown Pin: Pin U2-17
+Add Pin To Net: Unknown Pin: Pin U2-23
+Add Pin To Net: Unknown Pin: Pin U2-24
+Add Pin To Net: Unknown Pin: Pin U2-25
+Add Pin To Net: Unknown Pin: Pin U2-26
+Add Pin To Net: Unknown Pin: Pin U2-27
+Add Pin To Net: Unknown Pin: Pin U2-28
+Add Pin To Net: Unknown Pin: Pin U2-30
+Add Pin To Net: Unknown Pin: Pin U2-31
+Add Pin To Net: Unknown Pin: Pin U2-34
+Add Pin To Net: Unknown Pin: Pin U2-35
+Add Pin To Net: Unknown Pin: Pin U2-36
+Add Pin To Net: Unknown Pin: Pin U2-37
+Add Pin To Net: Unknown Pin: Pin U2-39
+Add Pin To Net: Unknown Pin: Pin U2-42
+Add Pin To Net: Unknown Pin: Pin U2-47
+Add Pin To Net: Unknown Pin: Pin U2-48
+Added Pin To Net: NetName=3V3 Pin=U3-2
+Add Pin To Net: Unknown Pin: Pin VD1-1
+Add Pin To Net: Unknown Pin: Pin VD2-1
+Change Net Name : Old Net Name=NetR?_2 New Net Name=NetR8_2
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetC1_2 Pin=R2-2
+Added Pin To Net: NetName=NetC1_2 Pin=U1-23
+Added Pin To Net: NetName=NetC1_2 Pin=Y1-1
+Added Net: Name=NetC1_2
+Added Pin To Net: NetName=NetC2_2 Pin=C2-2
+Added Pin To Net: NetName=NetC2_2 Pin=R2-1
+Added Pin To Net: NetName=NetC2_2 Pin=U1-24
+Added Pin To Net: NetName=NetC2_2 Pin=Y1-3
+Added Net: Name=NetC2_2
+Added Pin To Net: NetName=NetC3_1 Pin=C3-1
+Added Pin To Net: NetName=NetC3_1 Pin=R1-1
+Added Pin To Net: NetName=NetC3_1 Pin=SW1-2
+Added Pin To Net: NetName=NetC3_1 Pin=SW1-2
+Added Net: Name=NetC3_1
+Added Pin To Net: NetName=NetC5_2 Pin=C5-2
+Added Pin To Net: NetName=NetC5_2 Pin=R6-2
+Added Pin To Net: NetName=NetC5_2 Pin=Y2-1
+Added Net: Name=NetC5_2
+Added Pin To Net: NetName=NetC6_2 Pin=C6-2
+Added Pin To Net: NetName=NetC6_2 Pin=R6-1
+Added Pin To Net: NetName=NetC6_2 Pin=Y2-3
+Added Net: Name=NetC6_2
+Added Pin To Net: NetName=NetC15_1 Pin=C15-1
+Added Pin To Net: NetName=NetC15_1 Pin=U1-1
+Added Net: Name=NetC15_1
+Added Pin To Net: NetName=NetC20_1 Pin=C20-1
+Added Pin To Net: NetName=NetC20_1 Pin=J7-4
+Added Pin To Net: NetName=NetC20_1 Pin=L2-2
+Added Pin To Net: NetName=NetC20_1 Pin=R17-2
+Added Pin To Net: NetName=NetC20_1 Pin=R18-2
+Added Net: Name=NetC20_1
+Added Pin To Net: NetName=NetC22_1 Pin=C22-1
+Added Pin To Net: NetName=NetC22_1 Pin=R15-2
+Added Pin To Net: NetName=NetC22_1 Pin=R16-2
+Added Net: Name=NetC22_1
+Added Pin To Net: NetName=NetR3_2 Pin=R3-2
+Added Net: Name=NetR3_2
+Added Pin To Net: NetName=NetR7_2 Pin=R7-2
+Added Pin To Net: NetName=NetR7_2 Pin=U1-14
+Added Net: Name=NetR7_2
+Added Pin To Net: NetName=NetR9_2 Pin=R9-2
+Added Pin To Net: NetName=NetR9_2 Pin=U1-26
+Added Net: Name=NetR9_2
+Added Pin To Net: NetName=NetR11_1 Pin=R11-1
+Added Net: Name=NetR11_1
+Added Pin To Net: NetName=NetR12_1 Pin=R12-1
+Added Net: Name=NetR12_1
+Added Member To Class: ClassName=main Member=Component C1 22pF
+Added Member To Class: ClassName=main Member=Component C2 22pF
+Added Member To Class: ClassName=main Member=Component C3 1uF
+Added Member To Class: ClassName=main Member=Component C4 2.2uF
+Added Member To Class: ClassName=main Member=Component C5 10pF
+Added Member To Class: ClassName=main Member=Component C6 10pF
+Added Member To Class: ClassName=main Member=Component C7 2.2uF
+Added Member To Class: ClassName=main Member=Component C9 100nF
+Added Member To Class: ClassName=main Member=Component C10 100nF
+Added Member To Class: ClassName=main Member=Component C11 100nF
+Added Member To Class: ClassName=main Member=Component C12 10nF
+Added Member To Class: ClassName=main Member=Component C13 10nF
+Added Member To Class: ClassName=main Member=Component C14 10uF
+Added Member To Class: ClassName=main Member=Component C15 10uF
+Added Member To Class: ClassName=main Member=Component C16 10nF
+Added Member To Class: ClassName=main Member=Component C17 10nF
+Added Member To Class: ClassName=main Member=Component C18 10uF
+Added Member To Class: ClassName=main Member=Component C19 100nF
+Added Member To Class: ClassName=main Member=Component C20 10nF
+Added Member To Class: ClassName=main Member=Component C21 10uF
+Added Member To Class: ClassName=main Member=Component C22 10nF
+Add Class Member: Failed to add class member : Component D1 SD103AW
+Added Member To Class: ClassName=main Member=Component J1 HX2.54-4P
+Added Member To Class: ClassName=main Member=Component J2 HX2.54-4P
+Added Member To Class: ClassName=main Member=Component J4 HX2.54-2P
+Added Member To Class: ClassName=main Member=Component J5 RAPC712BKZ
+Added Member To Class: ClassName=main Member=Component J6 SWD
+Added Member To Class: ClassName=main Member=Component J7 RJ-45 Jack
+Added Member To Class: ClassName=main Member=Component L2 L
+Added Member To Class: ClassName=main Member=Component R1 10k
+Added Member To Class: ClassName=main Member=Component R2 1M
+Added Member To Class: ClassName=main Member=Component R3 10k
+Added Member To Class: ClassName=main Member=Component R4 10k
+Added Member To Class: ClassName=main Member=Component R5 10k
+Added Member To Class: ClassName=main Member=Component R6 1M
+Added Member To Class: ClassName=main Member=Component R7 10k
+Added Member To Class: ClassName=main Member=Component R8 10k
+Added Member To Class: ClassName=main Member=Component R9 10k
+Added Member To Class: ClassName=main Member=Component R10 10k
+Added Member To Class: ClassName=main Member=Component R12 510
+Added Member To Class: ClassName=main Member=Component R13
+Added Member To Class: ClassName=main Member=Component R14
+Added Member To Class: ClassName=main Member=Component R15 49.9
+Added Member To Class: ClassName=main Member=Component R16 49.9
+Added Member To Class: ClassName=main Member=Component R17 49.9
+Added Member To Class: ClassName=main Member=Component R18 49.9
+Add Class Member: Failed to add class member : Component U2 GD32F103C8T6
+Added Member To Class: ClassName=main Member=Component U3 AOZ1282CI
+Add Class Member: Failed to add class member : Component VD1 LED
+Add Class Member: Failed to add class member : Component VD2 LED
+Added Member To Class: ClassName=main Member=Component Y1 3225

@@ -1,0 +1,18 @@
+Change Component Footprint: Designator=U2 Old Footprint=QFP32_MD_TQFP80P900X900X120-32N New Footprint=QFP48_MD_TSQFP50P900X900X120-48N
+Added Component: Designator=D1(SOD123_MD_DIOM2615X12N)
+Add Pin To Net: Unknown Pin: Pin D1-1
+Add Pin To Net: Unknown Pin: Pin D1-2
+Added Pin To Net: NetName=SWDIO Pin=U2-34
+Added Pin To Net: NetName=GND Pin=U2-35
+Added Pin To Net: NetName=3V3 Pin=U2-36
+Added Pin To Net: NetName=SWCLK Pin=U2-37
+Added Pin To Net: NetName=CS Pin=U2-39
+Added Pin To Net: NetName=RESET Pin=U2-42
+Added Pin To Net: NetName=NetR3_2 Pin=U2-44
+Added Pin To Net: NetName=GND Pin=U2-47
+Added Pin To Net: NetName=3V3 Pin=U2-48
+Add Pin To Net: Unknown Pin: Pin VD1-1
+Add Pin To Net: Unknown Pin: Pin VD1-2
+Add Pin To Net: Unknown Pin: Pin VD2-1
+Add Pin To Net: Unknown Pin: Pin VD2-2
+Add Class Member: Failed to add class member : Component D1 SD103AW

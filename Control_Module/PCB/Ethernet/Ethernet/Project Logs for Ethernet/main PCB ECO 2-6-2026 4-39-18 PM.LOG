@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=GND Pin=C14-1
+Removed Pin From Net: NetName=3V3 Pin=C14-2
+Removed Pin From Net: NetName=3V3 Pin=VD1-A
+Removed Pin From Net: NetName=NetR11_1 Pin=VD1-C
+Removed Pin From Net: NetName=3V3 Pin=VD2-A
+Change Component Description : Designator=U1 Old Description=28 Pin, 8 KB RAM, MAC&PHY, Ethernet Controller New Description=28 Pin, 8 KB RAM, MAC&PHY, Ethernet Controller | Microchip Technology Inc. ENC28J60/SS
+Added Component: Designator=D1(SOD123_MD_DIOM2615X12N)
+Added Pin To Net: NetName=3V3 Pin=C14-1
+Added Pin To Net: NetName=GND Pin=C14-2
+Add Pin To Net: Unknown Pin: Pin D1-1
+Add Pin To Net: Unknown Pin: Pin D1-2
+Add Pin To Net: Unknown Pin: Pin VD1-1
+Add Pin To Net: Unknown Pin: Pin VD1-2
+Add Pin To Net: Unknown Pin: Pin VD2-1
+Add Pin To Net: Unknown Pin: Pin VD2-2
+Add Class Member: Failed to add class member : Component D1 SD103AW

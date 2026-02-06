@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=3V3 Pin=VD2-A
+Removed Pin From Net: NetName=NetR12_1 Pin=VD2-C
+Added Component: Designator=D1(SOD123_MD_DIOM2615X12N)
+Add Pin To Net: Unknown Pin: Pin D1-1
+Add Pin To Net: Unknown Pin: Pin D1-2
+Add Pin To Net: Unknown Pin: Pin VD1-1
+Add Pin To Net: Unknown Pin: Pin VD1-2
+Add Pin To Net: Unknown Pin: Pin VD2-1
+Add Pin To Net: Unknown Pin: Pin VD2-2
+Change Net Name : Old Net Name=TPIN+ New Net Name=TPIN_P
+Change Net Name : Old Net Name=TPIN- New Net Name=TPIN_N
+Change Net Name : Old Net Name=TPOUT+ New Net Name=TPOUT_P
+Change Net Name : Old Net Name=TPOUT- New Net Name=TPOUT_N
+Added Class: Name=Ethernet
+Added Differential Pair: Name=TPIN
+Added Differential Pair: Name=TPOUT
+Add Class Member: Failed to add class member : Component D1 SD103AW
+Added Rule: Name=Schematic Differential Pairs Routing
