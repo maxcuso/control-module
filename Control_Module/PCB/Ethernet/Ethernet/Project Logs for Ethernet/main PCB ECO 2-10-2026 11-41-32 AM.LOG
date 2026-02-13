@@ -1,0 +1,3 @@
+Added Rule: Name=Schematic Differential Pairs Routing
+Added Class: Name=ETH_RX_IO_LINES
+Added Class: Name=ETH_TX_IO_LINES

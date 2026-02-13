@@ -1,0 +1,41 @@
+Change Component Designator: OldDesignator=D? NewDesignator=D1
+Added Component: Designator=1(M3x1)
+Add component (AddParameter): Name = "CompCode"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "SMTSO_STAND_M3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "PART_1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SMTSO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMTJ_stand_m3_NEW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "SMTSO_STAND_M3"; VariantName = "[No Variations]"
+Added Component: Designator=2(M3x1)
+Add component (AddParameter): Name = "CompCode"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "SMTSO_STAND_M3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "PART_1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SMTSO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMTJ_stand_m3_NEW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "SMTSO_STAND_M3"; VariantName = "[No Variations]"
+Added Component: Designator=3(M3x1)
+Add component (AddParameter): Name = "CompCode"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "SMTSO_STAND_M3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "PART_1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SMTSO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMTJ_stand_m3_NEW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "SMTSO_STAND_M3"; VariantName = "[No Variations]"
+Added Component: Designator=4(M3x1)
+Add component (AddParameter): Name = "CompCode"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "SMTSO_STAND_M3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "PART_1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SMTSO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMTJ_stand_m3_NEW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "SMTSO_STAND_M3"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=1-1
+Added Pin To Net: NetName=GND Pin=2-1
+Added Pin To Net: NetName=GND Pin=3-1
+Added Pin To Net: NetName=GND Pin=4-1
+Added Member To Class: ClassName=main Member=Component 1 SMTSO_STAND_M3
+Added Member To Class: ClassName=main Member=Component 2 SMTSO_STAND_M3
+Added Member To Class: ClassName=main Member=Component 3 SMTSO_STAND_M3
+Added Member To Class: ClassName=main Member=Component 4 SMTSO_STAND_M3
